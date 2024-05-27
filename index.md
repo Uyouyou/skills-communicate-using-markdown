@@ -6,3 +6,8 @@
 ###### Header 6
 
 ! [Image of an NFT design] (https://www.pinterest.com/pin/911345674568687428/)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
